@@ -1,6 +1,6 @@
 # BennyMu2004
 
-<img sxe = "us1">                            
+<img space = "url">                            
 
 
 
