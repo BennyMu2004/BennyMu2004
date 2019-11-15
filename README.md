@@ -1,39 +1,5 @@
 # BennyMu2004
 
-<image space = "url">                            
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<image space = "url"> 
+  
+  
