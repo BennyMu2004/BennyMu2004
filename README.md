@@ -1,6 +1,6 @@
 # BennyMu2004
 
-<img space = "url">                            
+<image space = "url">                            
 
 
 
